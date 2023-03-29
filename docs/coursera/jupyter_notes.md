@@ -1,3 +1,3 @@
 # Jupyter Notes
 
-This is the space for my jupyter notes.
+This is the space for Panchu's jupyter notes.
