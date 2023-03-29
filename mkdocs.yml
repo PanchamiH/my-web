@@ -1,0 +1,12 @@
+site_name: Panchu Docs
+theme:
+    name: material
+    palette:
+        primary: deep-purple
+        accent: purple
+
+nav:
+    - Home: index.md
+    - NewPage: new/newfile.md
+    - Coursera: 
+        - Jupyter Notes: coursera/jupyter_notes.md
